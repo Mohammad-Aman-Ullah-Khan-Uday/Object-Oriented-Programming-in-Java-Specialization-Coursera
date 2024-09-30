@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=WordLenghts
+comment1.params=
+comment1.target=int[]\ countWordLengths()
+comment2.params=values
+comment2.target=void\ indexOfMax(int[])
+comment3.params=
+comment3.target=void\ testCountWordLengths()
+numComments=4
